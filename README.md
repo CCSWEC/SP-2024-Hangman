@@ -2,6 +2,8 @@
 Hangman game for spring 2024 project
 You will be making a hangman project, here is the basic idea.
 
+https://prod.liveshare.vsengsaas.visualstudio.com/join?825189D51D96F2E03B42C2B012FAEC80EA60
+
 Define a list of words: Create a list of words that the player will have to guess. This list can be stored as an array or a list in your code.
 
 Select a random word from the list: Use a random number generator to select a word from the list of words. This will be the word that the player needs to guess.
