@@ -1,6 +1,6 @@
 # SP-2024-Hangman
 Hangman game for spring 2024 project
-You will be making a hangman project, here is the basic idea
+You will be making a hangman project, here is the basic idea.
 
 Define a list of words: Create a list of words that the player will have to guess. This list can be stored as an array or a list in your code.
 
